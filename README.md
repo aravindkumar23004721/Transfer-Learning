@@ -99,7 +99,6 @@ def train_model(model, train_loader,test_loader,num_epochs=10):
 
 ## OUTPUT
 ### Training Loss, Validation Loss Vs Iteration Plot
-![alt text](<Screenshot 2025-03-26 095930.png>)
 
 
 ### Classification Report
